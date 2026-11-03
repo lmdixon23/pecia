@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "preview": "pecia-preview-20261103-90b9c59",
+  "date": "2026-11-03",
+  "status": "experimental source preview; release criteria not cleared",
+  "program_version": "0.1.2rc15",
+  "development_commit": "90b9c59fcf85e335a866ffbf5bf55d1ca049c540",
+  "development_tree": "bcf17235afc8aaa17893211a4753000566102734",
+  "identity_scope": "Program, developer-tool code and all tests are unchanged; public documentation differs from the development tree. The commit is not asserted to exist on a public remote.",
+  "pecia_py_sha256": "e8fa89168e86dcb4a12e29c5959fe34d6814cebe3ede212b6a045c4e84155b41",
+  "unchanged_python_files": 30,
+  "unchanged_test_files": 27,
+  "unchanged_other_files": [
+    ".gitignore",
+    "LICENSE"
+  ],
+  "replaced_documents": [
+    "ACCEPTANCE.md",
+    "CHANGELOG.md",
+    "CITATION.cff",
+    "README.md",
+    "docs/findings/2026-10-codex-windows-hook-exit-codes.md",
+    "tools/codex_e2e/README.md"
+  ],
+  "added_documents": [
+    "docs/guide.md",
+    "docs/limitations.md",
+    "docs/quickstart.md",
+    "docs/troubleshooting.md"
+  ],
+  "packaging_metadata": [
+    "SOURCE-IDENTITY.json",
+    "SHA256SUMS"
+  ],
+  "runtime_validation_during_packaging": "NOT_RUN",
+  "recorded_development_suite": {
+    "total": 1183,
+    "passed": 1167,
+    "skipped": 16,
+    "failures": 0,
+    "errors": 0,
+    "applies_to": "original development tree with original documentation"
+  },
+  "public_documentation_compatibility": "Two unchanged historical ledger tests require the original internal document structure; see ACCEPTANCE.md. No full-suite pass is claimed for this archive.",
+  "zip_timestamps": "Normalized to 2026-11-03 00:00:00, not source modification times",
+  "license": "MIT; see LICENSE"
+}

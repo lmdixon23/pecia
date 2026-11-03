@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: Cite this experimental source preview using the metadata below and include its snapshot identity.
+title: pecia
+type: software
+authors:
+  - family-names: Dixon
+    given-names: Logan M.
+    orcid: https://orcid.org/0009-0001-0592-462X
+repository-code: https://github.com/lmdixon23/pecia
+license: MIT
+version: '0.1.2rc15'
+abstract: An experimental single-file Python tool for task state, local snapshots, designated evidence storage and coordination between AI coding agents in Git repositories. This source preview has known recovery and guard-coverage limitations and is intended for inspection and disposable evaluation. It does not establish the correctness of research results or provide a backup guarantee.
